@@ -9,3 +9,5 @@ My first github repository
 	总结：
 		生成ssh key的命令：ssh-kyegen -t rsa -C "chbogee@163.com"
 		测试是否能连接成功的命令：ssh -T -p 443 "git@ssh.github.com"
+20160302下午：
+	练习使用git stash
