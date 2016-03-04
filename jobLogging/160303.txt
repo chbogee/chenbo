@@ -1,0 +1,9 @@
+20160303:
+	1. 开始熟悉hotel-pandora项目thrift文件并阅读代码；
+	2. 下午参加新人培训以及小组晋升答辩的预演；
+
+	笔记：
+		1. 容器对于web.xml文件的加载过程:
+			<context-param> --> listener --> filter --> servlet;
+
+
